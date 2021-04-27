@@ -75,7 +75,7 @@ are “normal” and only a minority is considered “poor” or “excellent”
 Our goal, with this dataset, is to be able, with the help of machine learning to determine
 which physiochemical properties make a wine “Good”. 
 
-# ** Python Implementation**  
+# **Python Implementation**  
 
 ## **A.Data Cleaning**
 
@@ -103,7 +103,7 @@ We have chosen to match this matrix to estimate the dataset at first sight. It a
 a first distribution that measures the quality of a classification system. For each training model we will bring up this wonderful tool to evaluate the preferences of
 the models so we will have a concrete idea of which model works best for our dataset. 
 
-# ** Results and Optimisation** 
+# **Results and Optimisation** 
 
 For our prediction, we used 5 different models:
 • Logistic Regression,
